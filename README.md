@@ -20,6 +20,5 @@ Create a folder named recognizer(case sensitive) in same folder as code. It will
 Run trainer.py which will create a classifier using haar-cascade.
 
 ##Detector
-
-Now run face detection.py and enjoy detecting the faces u trained in classifier
+Now run face detection.py and enjoy detecting the faces you trained in classifier.
 
