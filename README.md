@@ -19,6 +19,6 @@ and create entries for all the people you want to recognize in the database.
 Create a folder named recognizer(case sensitive) in same folder as code. It will store the trained classifier.
 Run trainer.py which will create a classifier using haar-cascade.
 
-##Detector
+## Detector
 Now run face detection.py and enjoy detecting the faces you trained in classifier.
 
